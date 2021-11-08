@@ -1,0 +1,33 @@
+ <table class="solution-one-table" width="33.33%" align="left" cellspacing="0" cellspacing="0" border="0" style=" background-color: #fff; padding: 25px 0 75px;"></table>
+
+ PARAGRAPH:
+  <p style="font-family: 'Open Sans', sans-serif, Arial, Helvetica, 'Helvetica Neue'; color: #7f8887; font-size: 14px; font-weight: 400; line-height: 1.8;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias, impedit?</p>
+
+TABLE DATA:
+<td style="font-family: 'Open Sans', sans-serif, Arial, Helvetica, 'Helvetica Neue'; color: #333333; font-size: 24px; font-weight: 300; padding: 36px 0 5px 0;" align="center"></td>
+
+
+IMAGE URLS:
+https://i.ibb.co/BnSffRt/youtube-icon.png
+https://i.ibb.co/KDKWphr/wifi-icon.png
+https://i.ibb.co/ZfZgCGW/watch-screen-37.png
+https://i.ibb.co/4ZqV34K/watch-screen.png
+https://i.ibb.co/jf6TjrR/twitter-icon.png
+https://i.ibb.co/T0yPsSr/smartwatch.png
+https://i.ibb.co/F74YPTQ/share-icon2.png
+https://i.ibb.co/LYyp31M/share-icon.png
+https://i.ibb.co/NSh0m5x/settings-icon.png
+https://i.ibb.co/sKJ4m4C/playstore.png
+https://i.ibb.co/42dJgLc/pinterest-icon.png
+https://i.ibb.co/DwxjT9v/phone-icon-48.png
+https://i.ibb.co/rcMKkBM/phone-icon.png
+https://i.ibb.co/SnSVdrj/one-app.jpg
+https://i.ibb.co/SnHY0Y1/menu-icon.png
+https://i.ibb.co/3knGsZH/logo.png
+https://i.ibb.co/tQQTH4Q/linkedin-icon.png
+https://i.ibb.co/RzwRB8S/image-head.jpg
+https://i.ibb.co/8c4MjJV/google-icon.png
+https://i.ibb.co/GCtJ5q9/facebook-icon.png
+https://i.ibb.co/tB7jfRB/check-icon.png
+https://i.ibb.co/QjRHCL8/appstore.png
+https://i.ibb.co/v3k7kcp/bell-icon.png
