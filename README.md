@@ -2,4 +2,4 @@
 
 ## Description
 
-This template HTML email template is a responsive email template for a smart watch.
+This HTML email template is a responsive email template for a smart watch.
